@@ -1,6 +1,6 @@
 # Refuses the action, repeats the lie: how a customer-service agent handles injected notes in Spanish and English
 
-*Carlos Betancur Gálvez — DRAFT, November 2026. Code and data: [repo link].*
+*Carlos Betancur Gálvez — DRAFT, November 2026. Code and data: https://github.com/cabetan/injection-es.*
 *AI assistance: the experiment code and this write-up were produced with substantial help from Claude (Anthropic). The research question, the choice of the small-business deployment setting and the interpretation are mine. I'm stating this plainly because it is part of the method.*
 
 ## TL;DR
